@@ -1,0 +1,3 @@
+Drag and Drop the file src/Dizionario.ml 
+to 
+https://try.ocamlpro.com/  
